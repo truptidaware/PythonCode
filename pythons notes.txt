@@ -1,0 +1,7 @@
+# data types in python 
+ int
+ float
+ complex
+ string
+ none
+ bool
